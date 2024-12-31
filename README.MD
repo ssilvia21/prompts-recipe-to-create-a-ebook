@@ -9,6 +9,7 @@ seguem abaixo.
 
 Aventura no mundo dos Animais ebook.pdf
 
+https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/pull/28
 
 <a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Aventura no mundo dos Animais ebook.pdf
 
